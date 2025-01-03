@@ -6,6 +6,8 @@ This Calendar Application is designed to help organizations efficiently manage a
 
 ---
 
+## Live Deployed Link : https://entnt-calendar.vercel.app/
+
 ## Features
 
 ### Admin Module
