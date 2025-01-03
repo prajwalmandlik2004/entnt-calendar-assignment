@@ -61,3 +61,30 @@ This Calendar Application is designed to help organizations efficiently manage a
 - Clone the repository:
   ```bash
   git clone https://github.com/your-username/calendar-app.git
+
+- Navigate to the project directory:
+  ```bash
+  cd calendar-app
+
+- Install dependencies:
+  ```bash
+  npm install
+
+- Start the development server:
+  ```bash
+  npm run dev
+
+# Accessing the Application
+
+### Admin and user modules can be accessed through the provided routes:
+
+- Admin: 
+  - Mail - admin@example.com
+  - Pass - admin123
+- User: 
+  - Mail - user@example.com
+  - Pass - user123
+
+# Known Limitations: 
+
+- Currently, the Reporting and Analytics Module has not been developed. Future versions may include detailed performance insights and downloadable reports.
