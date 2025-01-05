@@ -86,6 +86,8 @@ This Calendar Application is designed to help organizations efficiently manage a
 - User: 
   - Mail - user@example.com
   - Pass - user123
+ 
+  - ( If user not found then go to admin login and under user management create user account and access user login )
 
 # Known Limitations: 
 
